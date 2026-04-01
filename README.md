@@ -1,10 +1,8 @@
 # Brain Network Visualizer
 
-A web-based 3D brain functional connectivity visualization pipeline for fMRI-derived BOLD signal data, targeting SIGGRAPH 2026 Student Research Competition.
+A web-based 3D brain functional connectivity visualization pipeline for fMRI-derived BOLD signal data.
 
 ## Results
-
-### Idea B · Spatiotemporal Hemodynamic Wavefront
 
 ![Spatiotemporal Hemodynamic Wavefront](resultviewer.png)
 
