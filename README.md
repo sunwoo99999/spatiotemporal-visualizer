@@ -6,7 +6,7 @@ A web-based 3D brain functional connectivity visualization pipeline for fMRI-der
 
 ![Spatiotemporal Hemodynamic Wavefront](resultviewer.png)
 
-_Geodesic Dijkstra propagation of $t_{peak}$ on a 2562-vertex icosphere mesh (Laplacian-smoothed). Blue (V1, ~4.1 s) → red (V4, ~7.0 s). The glowing white band is the animated wavefront; white grid lines are iso-contour rings at every 0.38 s interval.\_
+_Geodesic Dijkstra propagation of peak on a 2562-vertex icosphere mesh (Laplacian-smoothed). Blue (V1, ~4.1 s) → red (V4, ~7.0 s). The glowing white band is the animated wavefront; white grid lines are iso-contour rings at every 0.38 s interval.\_
 
 ---
 
